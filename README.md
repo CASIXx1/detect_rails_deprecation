@@ -1,0 +1,1 @@
+# detect_rails_deprecation
